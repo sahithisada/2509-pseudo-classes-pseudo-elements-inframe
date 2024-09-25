@@ -1,0 +1,31 @@
+p::selection{
+    background-color: rgb(133, 22, 22);  
+    color: aliceblue;
+}
+a:link{
+    color: rgb(0, 0, 0);
+}
+a:visited{
+    color:rgb(22, 34, 94);
+}
+a:hover{
+    background-color: blueviolet;
+}
+#ilPic{
+    width: 300px;
+    height: 300px;
+}
+ #ilPic:hover{
+    box-shadow: 10px 10px 10px rgb(121, 120, 120);
+}
+
+body{
+    background-color: rgb(239, 238, 191);
+    color: rgb(15, 14, 14);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    border: 2px solid rgb(204, 204, 201);
+    border-radius: 10px;
+}
+.spacing{
+    margin: 30px;
+}
